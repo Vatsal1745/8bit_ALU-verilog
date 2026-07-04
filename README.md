@@ -35,6 +35,7 @@ vvp alu_tb.vvp
 
 # 3. Open the visual timing waveforms
 gtkwave alu_tb.vcd
+```
 
 ## Behavioral Waveform Verification
 
