@@ -40,4 +40,4 @@ gtkwave alu_tb.vcd
 
 Below is the verified timing diagram from GTKWave showing correct arithmetic and logical execution:
 
-![ALU Behavioral Waveform](waveforms/output_waveform_alu.png)
+<img src="waveforms/output_waveform_alu.png" width="800" alt="ALU Behavioral Waveform">
